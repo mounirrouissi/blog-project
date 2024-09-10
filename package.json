@@ -146,7 +146,7 @@
     "jest-junit": "16.0.0",
     "jest-preset-angular": "14.1.1",
     "jest-sonar": "0.2.16",
-    "lighthouse": "12.1.0",
+    "lighthouse": "12.2.1",
     "lint-staged": "15.2.7",
     "merge-jsons-webpack-plugin": "2.0.1",
     "nyc": "17.0.0",
